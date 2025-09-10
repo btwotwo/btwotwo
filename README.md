@@ -1,1 +1,3 @@
-Hello! I have migrated most of my personal repositories to [Codeberg](https://codeberg.org/jocoding).
+Hello! 
+
+In case you want to check out my personal repositories, I have migrated most of them to [Codeberg](https://codeberg.org/jocoding)
